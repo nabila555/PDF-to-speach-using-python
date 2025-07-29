@@ -1,4 +1,4 @@
-# PDF-to-speach-using-python
+# PDF-to-speech-using-python
 
 Features
 ✅ Convert PDF to speech with adjustable voice (male/female)
